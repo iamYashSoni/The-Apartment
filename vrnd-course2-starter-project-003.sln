@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course2-starter-project-003", "vrnd-course2-starter-project-003.csproj", "{D7031D77-4241-BBFB-0255-4CD9353BCFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vrnd-course2-starter-project-003.Editor", "vrnd-course2-starter-project-003.Editor.csproj", "{23F988C7-0299-9005-0832-6546DD5E2D01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7031D77-4241-BBFB-0255-4CD9353BCFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7031D77-4241-BBFB-0255-4CD9353BCFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7031D77-4241-BBFB-0255-4CD9353BCFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7031D77-4241-BBFB-0255-4CD9353BCFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23F988C7-0299-9005-0832-6546DD5E2D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F988C7-0299-9005-0832-6546DD5E2D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23F988C7-0299-9005-0832-6546DD5E2D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F988C7-0299-9005-0832-6546DD5E2D01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
